@@ -11,4 +11,4 @@ We publish several software packages for public use, including:
 While this repo is mostly for internal use, we welcome contributions to our public software packages. Please read through our [Contribution Guidelines](link-to-guidelines) before submitting any pull requests.
 
 ## 📜 License
-Our public software packages are licensed under the MIT Open Source License. For more details, please refer to the LICENSE file in each package's directory.
+Our public software packages are licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). For more details, please refer to the LICENSE file in each package's directory.

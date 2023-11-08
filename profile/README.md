@@ -4,7 +4,7 @@ Welcome to the TESD-Tech repository, the codebase used by the Tredyffrin/Easttow
 ## 📦 Public Software Packages
 We publish several software packages for public use, including:
 
-- [@tesd-tech/ps-package]([link-to-ps-package](https://github.com/TESD-Tech/ps-package)): This package is a set of tools designed to help with managing and interacting with PowerSchool, our student information system. 🎓
+- [@tesd-tech/ps-package](https://github.com/TESD-Tech/ps-package): This package is a set of tools designed to help with managing and interacting with PowerSchool, our student information system. 🎓
 - [node-red-contrib-powerschool](https://github.com/TESD-Tech/node-red-contrib-powerschool): This package is a Node-RED node that allows for easy integration with PowerSchool. 🔄
 
 ## 🤝 Contributing
